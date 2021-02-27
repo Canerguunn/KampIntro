@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP\OOP1.csproj", "{1B108259-34A1-404C-9861-E7A0551D5E17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{C604AC4E-57DA-4FAC-A600-52C969794EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1B108259-34A1-404C-9861-E7A0551D5E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B108259-34A1-404C-9861-E7A0551D5E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B108259-34A1-404C-9861-E7A0551D5E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C604AC4E-57DA-4FAC-A600-52C969794EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C604AC4E-57DA-4FAC-A600-52C969794EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C604AC4E-57DA-4FAC-A600-52C969794EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C604AC4E-57DA-4FAC-A600-52C969794EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
