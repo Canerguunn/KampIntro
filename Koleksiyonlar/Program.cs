@@ -7,10 +7,15 @@ namespace Koleksiyonlar
     {
         static void Main(string[] args)
         {
-            List<string> isimler = new List<string> { "Sakir", "CAn", "Ergun", "Ds" };
+            List<string> isimler = new List<string> { "Şakir", "Can", "Ergün",};
+
+            foreach (string item in isimler)
+            {
+                Console.WriteLine(item);
+            }
+
             isimler.Add("Can");
 
-            Console.WriteLine();
 
         }
     }
